@@ -1,7 +1,7 @@
 export const station_list = {
   n211_toward: [
     'Neuperlach Süd',
-    'Neubiberg, W.-Heisenberg-W',
+    'Neubiberg, W.-Heisenberg-W.',
     'Neubiberg, Neubiberg',
     'Neubiberg, Rathaus',
     'Neubiberg, Kaiserstraße',
@@ -23,7 +23,7 @@ export const station_list = {
     'Neubiberg, Barbarossastraße',
     'Neubiberg, Kaiserstraße',
     'Neubiberg, Neubiberg',
-    'Neubiberg, W.-Heisenberg-W',
+    'Neubiberg, W.-Heisenberg-W.',
     'Neuperlach Süd',
   ],
   n212_toward: [
